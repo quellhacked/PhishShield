@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  width: 200px;
+}
+h2 {
+  color: #2a7ae2;
+}
+#status {
+  font-weight: bold;
+}
